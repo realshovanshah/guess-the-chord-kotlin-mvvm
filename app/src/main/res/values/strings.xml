@@ -1,0 +1,25 @@
+
+
+<resources>
+    <string name="app_name">Guess The Chord</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="about_text">Guess The Chord will you train your ear and sharpen your knowledge of important guitar chords.\n\nDo try adding different chords and graphics to make this game meet your requirements!</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="quiz_hint">Quiz Hint</string>
+    <string name="title_question_number">Guess The Chord (%1$d/%2$d)</string>
+    <string name="title_about_game">About Game</string>
+    <string name="title_trivia_game">Game Rules</string>
+    <string name="share_success_text">I mastered #GuessTheChord with %1$d/%2$d correct answers!</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
